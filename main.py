@@ -1,4 +1,4 @@
-# Problem 006:
+# Problem 6:
 #     Sum Square Difference
 #
 # Description:
